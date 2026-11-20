@@ -82,6 +82,14 @@ Official Website:
 https://nhts.ornl.gov/
 
 ---
+**Dataset Summary**
+
+Source Dataset	NHTS 2022
+Provider	FHWA
+Records	31,074
+Variables	21
+File Name	input22mod01.csv
+Application	Transportation Mode Choice Prediction
 
 ## Notes
 
