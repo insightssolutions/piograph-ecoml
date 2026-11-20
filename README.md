@@ -10,9 +10,13 @@ PioGraph-EcoML is a hybrid framework designed to integrate econometric methods, 
 research/ : Manuscripts and publication materials
 
 datasets/ : Data and metadata
+
 source_code/ : Model development and evaluation scripts
+
 models/ : Trained model artifacts
+
 results/ : Figures, tables, and validation outputs
+
 docs/ : Framework and reproducibility documentation
 
 **Reproducibility**
